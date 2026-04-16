@@ -3,22 +3,10 @@
   "assume_extension": true,
   "allow_hash_href": true,
   "ignore_urls": [
-    "/^http:\\/\\/127\\.0\\.0\\.1/",
-    "/^http:\\/\\/0\\.0\\.0\\.0/",
-    "/^http:\\/\\/localhost/",
-    "/^\\/$/",
-    "/^\\/assets\\//",
-    "/^\\/app\\.min\\.js/",
-    "/^\\/categories\\//",
-    "/^\\/tags\\//",
-    "/^\\/archives\\//",
-    "/^\\/about\\//",
-    "/^\\/feed\\.xml/"
+    "/^http:\/\/127\\.0\\.0\\.1/",
+    "/^http:\/\/0\\.0\\.0\\.0/",
+    "/^http:\/\/localhost/"
   ],
   "enforce_https": false,
   "allow_missing_href": true
 }
-
-
-
-
